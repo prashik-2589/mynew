@@ -1,0 +1,6 @@
+
+[common info]
+textbox_id = Email
+textbox_pass = Password
+button_login_xpath = /html/body/div[6]/div/div/div/div/div[2]/div[1]/div/form/div[3]/button
+link_test_logout = Logout
